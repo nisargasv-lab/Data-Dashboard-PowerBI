@@ -10,7 +10,9 @@ The dashboard helps users explore **job demand, in-demand skills, and salary tre
 
 ### Dashboard File
 
-You can find the Power BI dashboard file here: [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix).
+You can find the Power BI dashboard file here: ### Dashboard File
+
+📁 **[Download the Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1XGqZB3f7g9Al1MRdkTkXye3o-i7qfU8Z/view?usp=drive_link)**
 
 ## Skills Showcased
 
